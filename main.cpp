@@ -24,7 +24,7 @@ int findOddRepeat(int arr[], int arrLen) {
 
 int main(void) {
   
-  // For example: this array contains some of repeated numbers, so the function (findOddRepeat) will return the element (number) which repeated odd number of times.
+  // For example: this array contains some of repeated numbers, so the function (findOddRepeat) will return the element (number) which was repeated odd number of times.
 	int array[] = { 20, 1, 1, 2, 2, 3, 3, 5, 5, 4, 20, 4, 5 };
 	int arrayLenght = sizeof(array) / sizeof(array[0]);
 	
